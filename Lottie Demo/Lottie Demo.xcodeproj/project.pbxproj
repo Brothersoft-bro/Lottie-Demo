@@ -139,13 +139,13 @@
 			path = AppDelegate;
 			sourceTree = "<group>";
 		};
-		6344B7A425C4E3DF002377D7 /* ViewController */ = {
+		6344B7A425C4E3DF002377D7 /* View */ = {
 			isa = PBXGroup;
 			children = (
 				63DA637225C4FBFF00BA5F80 /* MainViewController.swift */,
 				63DA63BB25C502BD00BA5F80 /* AnimationViewController.swift */,
 			);
-			path = ViewController;
+			path = View;
 			sourceTree = "<group>";
 		};
 		6344B7A525C4E3EE002377D7 /* Storyboard */ = {
@@ -200,19 +200,11 @@
 			path = Animations;
 			sourceTree = "<group>";
 		};
-		6344B7F125C4F7BB002377D7 /* View */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = View;
-			sourceTree = "<group>";
-		};
 		6344B7F325C4F7D0002377D7 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
 				6344B7A325C4E3D1002377D7 /* AppDelegate */,
-				6344B7A425C4E3DF002377D7 /* ViewController */,
-				6344B7F125C4F7BB002377D7 /* View */,
+				6344B7A425C4E3DF002377D7 /* View */,
 				6344B7F425C4F7E3002377D7 /* Model */,
 				63D7444C25C5670C002DC30D /* Utils */,
 			);
