@@ -17,7 +17,7 @@ Lottie is a library for Android, iOS, Web, and Windows that natively renders vec
 
 ## Features
 
-- A demo app that shows how to present the animations in the User Interface, and how to play, pause, and stop the animations programatically.
+- A demo app that shows how to present the Lottie animations in the User Interface, and how to play, pause, and stop the animations programatically in realtime.
 
 ## Examples
 
